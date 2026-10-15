@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\WinScp\EllediTransfer.Core\bin\Debug\net8.0\EllediTransfer.Core.deps.json
+C:\Users\Gabriel\source\repos\WinScp\EllediTransfer.Core\bin\Debug\net8.0\EllediTransfer.Core.dll
+C:\Users\Gabriel\source\repos\WinScp\EllediTransfer.Core\bin\Debug\net8.0\EllediTransfer.Core.pdb
+C:\Users\Gabriel\source\repos\WinScp\EllediTransfer.Core\obj\Debug\net8.0\EllediTransfer.Core.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\WinScp\EllediTransfer.Core\obj\Debug\net8.0\EllediTransfer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\WinScp\EllediTransfer.Core\obj\Debug\net8.0\EllediTransfer.Core.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\WinScp\EllediTransfer.Core\obj\Debug\net8.0\EllediTransfer.Core.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\WinScp\EllediTransfer.Core\obj\Debug\net8.0\EllediTransfer.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\WinScp\EllediTransfer.Core\obj\Debug\net8.0\EllediTransfer.Core.dll
+C:\Users\Gabriel\source\repos\WinScp\EllediTransfer.Core\obj\Debug\net8.0\refint\EllediTransfer.Core.dll
+C:\Users\Gabriel\source\repos\WinScp\EllediTransfer.Core\obj\Debug\net8.0\EllediTransfer.Core.pdb
+C:\Users\Gabriel\source\repos\WinScp\EllediTransfer.Core\obj\Debug\net8.0\ref\EllediTransfer.Core.dll

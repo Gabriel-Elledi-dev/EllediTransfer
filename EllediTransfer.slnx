@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EllediTransfer.Core/EllediTransfer.Core.csproj" />
+  <Project Path="EllediTransfer.Gui/EllediTransfer.Gui.csproj" />
+  <Project Path="EllediTransfer/EllediTransfer.csproj" />
+</Solution>
